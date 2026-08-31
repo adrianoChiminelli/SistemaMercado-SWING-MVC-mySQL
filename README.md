@@ -1,14 +1,9 @@
 # SistemaMercado-SWING-MVC-mySQL
 
-Sistema simples de um supermercado que fiz como atividade em um curso que participei.
+Essa foi minha primeira aplicação feita completa.
+Basicamente o meu hello word, uma bagunça, mas deixo ela aqui visível por motivos nostálgicos
 
-Aplicação com funções básicas de cadastro e consulta de clientes, produtos, usuarios e vendas.
+----
 
-Usando padrão MVC.
-
-Bando de dados MySQL, disponibilizei um banco de exemplo com um usuario já cadastrado:
-Login e senha: admin
-
-Importe ele no PhpMyAdmin para utilizar de suas funcionalidades
-
-obs. lembre de alterar o nome do banco na classe de conexão!
+This was my first ever complete app.
+Basically my hello word, a mess, but I leave here visible for nostalgic reasons
